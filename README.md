@@ -4,7 +4,10 @@
 
 ## 🛠 tecnologias y herramientas
 
-**lenguajes:** Python, Java, Pascal
+**lenguajes:** 
+- Python
+- Java
+- pascal
 
 **librerias:** pandas, matplotlib, streamlit
 
