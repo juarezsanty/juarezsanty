@@ -9,9 +9,15 @@
 - Java
 - pascal
 
-**librerias:** pandas, matplotlib, streamlit
+**librerias:**
+- pandas
+- matplotlib
+- streamlit
 
 **control de versiones:** git, github, gitlab
+- git
+- github
+- gitlab
 
 ## 📫 contacto
 
