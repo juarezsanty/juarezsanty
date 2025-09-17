@@ -2,6 +2,8 @@
 
 🎓Estudiante de licenciatura en sistemas en la unlp
 
+interesado en analisis de datos y desarrollo de software. Abierto a seguir aprendiendo nuevas tecnologias.
+
 ## 🛠 tecnologias y herramientas
 
 **lenguajes:** 
