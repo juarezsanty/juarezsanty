@@ -1,28 +1,28 @@
-## 👋 hola, soy santiago juarez
+## 👋 Hola, soy Santiago Juarez
 
 🎓Estudiante de licenciatura en sistemas en la unlp
 
-interesado en analisis de datos y desarrollo de software. Abierto a seguir aprendiendo nuevas tecnologias.
+Interesado en analisis de datos y desarrollo de software. Abierto a seguir aprendiendo nuevas tecnologias.
 
-## 🛠 tecnologias y herramientas
+## 🛠 Tecnologias y herramientas
 
-**lenguajes:** 
+**Lenguajes:** 
 - Python
 - Java
 - pascal
 
-**librerias:**
-- pandas
-- matplotlib
-- streamlit
+**Librerias:**
+- Pandas
+- Matplotlib
+- Streamlit
 
-**control de versiones:**
-- git
-- github
-- gitlab
+**Control de versiones:**
+- Git
+- Github
+- Gitlab
 
-## 📫 contacto
+## 📫 Contacto
 
-linkedin: https://www.linkedin.com/in/santiago-juarez-3476a7319/
+Linkedin: https://www.linkedin.com/in/santiago-juarez-3476a7319/
 
-mail: juarezsanty04@gmail.com
+Mail: juarezsanty04@gmail.com
