@@ -14,7 +14,7 @@
 - matplotlib
 - streamlit
 
-**control de versiones:** git, github, gitlab
+**control de versiones:**
 - git
 - github
 - gitlab
